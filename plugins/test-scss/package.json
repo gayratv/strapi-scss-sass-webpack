@@ -1,0 +1,31 @@
+{
+  "name": "strapi-plugin-testSCSS",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "testSCSS",
+    "icon": "plug",
+    "description": "Description of testSCSS plugin."
+  },
+  "peerDependencies": {
+    "@buffetjs/styles": "latest",
+    "@buffetjs/core": "latest"
+  },
+  "author": {
+    "name": "A Strapi developer",
+    "email": "",
+    "url": ""
+  },
+  "maintainers": [
+    {
+      "name": "A Strapi developer",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
